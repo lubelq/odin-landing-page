@@ -1,1 +1,1 @@
-# odin-landing-page
+This project is a simple website, created as an assignment for the Odin Project course. The website aims to present the topic of oceans and jellyfish, including their unique beauty. It is a "landing page" that aims to attract the attention of users and provide them with information about these fascinating creatures.
